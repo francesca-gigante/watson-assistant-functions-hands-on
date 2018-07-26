@@ -3,4 +3,6 @@ Questo progetto contiene il tutorial per collegare assistente virtuale costruito
 
 Per poter eseguire l'esercitazione inclusa nel tutorial è necessario avere un account IBM Cloud; i passi necessari per la creazione dell'account sono descritti nella prima parte del tutorial https://github.com/francesca-gigante/watson-assistant-hands-on.
 
+![Diagramma funzionale](https://github.com/francesca-gigante/watson-assistant-functions-hands-on/blob/master/assistant-function.png)
+
 Vengono inoltre forniti tutti i suggerimenti per eventuale miglioramento e anche tutti i link alle documentazioni.
